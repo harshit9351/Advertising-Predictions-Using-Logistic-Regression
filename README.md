@@ -1,1 +1,0 @@
-# Advertising-Predictions-Using-Logistic-Regression
